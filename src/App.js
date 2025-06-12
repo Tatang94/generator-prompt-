@@ -634,7 +634,7 @@ const App = () => {
             </div>
             {/* Footer dengan copyright */}
             <footer className="mt-8 sm:mt-12 text-center text-gray-500 text-xs sm:text-sm pb-4">
-                © {new Date().getFullYear()} by Lazuardy Al Farissi
+                © {new Date().getFullYear()} BY : GENERATOR PROMPT VIDEO 
             </footer>
         </div>
     );
