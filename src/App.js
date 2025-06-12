@@ -31,7 +31,7 @@ const App = () => {
     const [isAuthenticated, setIsAuthenticated] = useState(false);
     const [passwordInput, setPasswordInput] = useState('');
     const [passwordError, setPasswordError] = useState('');
-    const CORRECT_PASSWORD = "GENJOYVEO3KEREN"; // Define the correct password
+    const CORRECT_PASSWORD = "GENERATE"; // Define the correct password
 
     // Pre-defined prompt templates
     const templates = [
