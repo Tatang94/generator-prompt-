@@ -248,7 +248,7 @@ const App = () => {
         try {
             // !!! PENTING: Ganti "YOUR_GEMINI_API_KEY_HERE" dengan kunci API Gemini Anda yang sebenarnya.
             // PASTIKAN KUNCI API ANDA ADA DI SINI.
-            const apiKey = "AIzaSyAtdXVf1Hg2hTOi67zxYr23-vAzL2k527k"; // <--- PASTE KUNCI API ANDA DI SINI
+            const apiKey = "AIzaSyCGNnI10A6xLryJ8LjxJkM_FkA6NLNULlU"; // <--- PASTE KUNCI API ANDA DI SINI
 
             const chatHistory = [{ role: "user", parts: [{ text: assistantPrompt }] }];
             const payload = { contents: chatHistory };
@@ -302,7 +302,7 @@ const App = () => {
         try {
             // !!! PENTING: Ganti "YOUR_GEMINI_API_KEY_HERE" dengan kunci API Gemini Anda yang sebenarnya.
             // PASTIKAN KUNCI API ANDA ADA DI SINI.
-            const apiKey = "AIzaSyAtdXVf1Hg2hTOi67zxYr23-vAzL2k527k"; // <--- PASTE KUNCI API ANDA DI SINI
+            const apiKey = "AIzaSyCGNnI10A6xLryJ8LjxJkM_FkA6NLNULlU"; // <--- PASTE KUNCI API ANDA DI SINI
 
             const chatHistory = [{ role: "user", parts: [{ text: soundAssistantPrompt }] }];
             const payload = { contents: chatHistory };
